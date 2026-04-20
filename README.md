@@ -1,4 +1,4 @@
-# 📈 Stock Tracker Agent
+# 📈 StockPulse
 
 > Send a stock ticker on WhatsApp. Get back an AI-generated insight on why it moved.
 
