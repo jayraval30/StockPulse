@@ -30,28 +30,30 @@ Built with a real agentic loop — the AI autonomously fetches live prices, pull
 
 ---
 
-##  Architecture
-User (WhatsApp)
-│
-▼
-Twilio
-│  webhook
-▼
-FastAPI  ──────────────────────────────┐
-│                                   │
-▼                                   ▼
-AI Agent (Groq LLM)            Scheduler (9AM daily)
-│                                   │
-├──► Finnhub API (price)            │
-├──► NewsAPI (headlines)            │
-│                                   │
-▼                                   ▼
-SMS Insight ◄──────────────────────────┘
-│
-▼
-User (WhatsApp)
+## 🏗️ Architecture
 
----
+```
+User (WhatsApp)
+      │
+      ▼
+   Twilio
+      │  webhook
+      ▼
+   FastAPI
+      │
+      ├──────────────────────────┐
+      ▼                          ▼
+AI Agent (Groq LLM)      Scheduler (9AM)
+      │                          │
+      ├──► Finnhub (price)        │
+      ├──► NewsAPI (news)         │
+      │                          │
+      ▼                          ▼
+   Insight ◄─────────────────────┘
+      │
+      ▼
+User (WhatsApp)
+```
 
 ##  Tech Stack
 
@@ -108,7 +110,9 @@ TSLA
 GOOGL
 ---
 
-##  Project Structure
+## 📁 Project Structure
+
+```
 stock_tracker_agent/
 ├── app/
 │   ├── agent.py        # Agentic loop with tool calling
@@ -122,8 +126,7 @@ stock_tracker_agent/
 ├── .env.example
 ├── requirements.txt
 └── README.md
-
----
+```
 
 ##  Environment Variables
 
