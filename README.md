@@ -30,7 +30,7 @@ Built with a real agentic loop — the AI autonomously fetches live prices, pull
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 User (WhatsApp)
@@ -70,7 +70,7 @@ User (WhatsApp)
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repo
 ```bash
@@ -110,7 +110,7 @@ TSLA
 GOOGL
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 stock_tracker_agent/
