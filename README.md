@@ -162,9 +162,6 @@ Every morning at 9AM EST, the scheduler automatically sends insights for all sto
 
 ---
 
-##  License
-
-MIT License — feel free to use, modify and distribute.
 
 ---
 
