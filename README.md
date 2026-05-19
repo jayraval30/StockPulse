@@ -161,6 +161,9 @@ The agent uses a **tool-calling loop** — it autonomously decides which tools t
 Every morning at 9AM EST, the scheduler automatically sends insights for all stocks in your watchlist — no message needed.
 
 ---
+##  License
+
+MIT License — feel free to use, modify and distribute.
 
 
 ---
