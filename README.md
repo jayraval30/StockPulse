@@ -25,7 +25,7 @@ Built with a real agentic loop — the AI autonomously fetches live prices, pull
 | You send | You receive |
 |----------|-------------|
 | `NVDA` | ↑ NVDA +2.58% — expanded AI collaboration with Cadence driving optimism |
-| `AAPL` | ↑ AAPL +0.00% — steady demand for iPhones and services, no major catalysts |
+| `AAPL` | ↑ AAPL +0.00% — steady demand for iPhones and services, no major catalyst |
 | `TSLA` | ↑ TSLA +0.97% — strong FSD v15 rollout and Ark Investment accumulation |
 
 ---
