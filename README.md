@@ -1,6 +1,6 @@
 #  Stock Tracker Agent
 
-> AI-powered WhatsApp chatbot that tell you **why** your stocks moved — not just that they did.
+> AI-powered WhatsApp chatbot that tells you **why** your stocks moved — not just that they did.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-teal?style=flat-square&logo=fastapi)
