@@ -10,7 +10,7 @@
 
 ---
 
-##  What is this?
+##  **What is this?**
 
 Most stock apps tell you a stock is **down 2%**. This tells you **why**.
 You → WhatsApp "NVDA"
