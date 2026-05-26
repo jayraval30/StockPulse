@@ -158,7 +158,7 @@ The agent uses a **tool-calling loop** — it autonomously decides which tools t
 
 ##  Daily Digest
 
-Every morning at 9AM EST, the scheduler automatically sends insights for all stock in your watchlist — no message needed.
+Every morning at 9AM EST, the scheduler automatically sends insights for all stocks in your watchlist — no message needed.
 
 ---
 ##  License
